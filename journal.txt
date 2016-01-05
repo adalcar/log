@@ -1,0 +1,17 @@
+Mon Jan  4 21:40:27 IST 2016
+premiere visite du campus, gigantesque, 
+rencontre la responsable des relations internationales, et termine notre inscription (ainsi que l'acces a l'"hostel" ou on dort)
+Guillaume est arrive dans la matinee, pour le moment on est 4 dans la chambre, il joue a street fighter avec florian tandis que 
+alexandre cherche encore a bypass le blocage du wifi, via differents VPNs, tout en skypant sa copine.
+Moi je fais joujou avec archlinux
+d'ici 1 ou 2 jours on sera separe en 2 chambres
+On a ete faire un peu de shopping, pas un bon magasin de hardware dans le coin, mon portable etant un orange ne peux pas etre 
+desimlocke, donc je me suis achete un frigo, mais y a pas de bon forfait pour l'international, donc on restera sur whatsapp et skype
+on va sans doute se payer un routeur wifi ou une cle 4g pour avoir un internet un peu plus puissant, parce que la c'est la deche.
+d'autant plus que ca nous permettra de byass le firewall.
+Les indiens sont toujours tres sympa quoiqu'ils conduisent VRAIMENT comme des dingues, mais ils passent leurs soirees a venir nous dire bonjour dans notre chambre, au point que ca en devient stressant
+
+Tue Jan  5 00:11:53 IST 2016
+leur blocker me troll... j'essaie d'installer un vpn, et au moment de build le package il me sort que ca echoue
+je passe 2 heures a troubleshoot
+l'erreur c'etait que le tar que j'ai telecharge...  en fait a telecharge le bloqueur a la place... genre la page web expliquant que le site est bloque......
